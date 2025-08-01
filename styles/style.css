@@ -47,12 +47,6 @@ body {
 .header__address {
   margin-bottom: 4px;
   margin-left: 187px;
-  font-family:  Raleway, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 24.3px;
-  
-  letter-spacing: 0%;
   margin-right: 10px;
 }
 
@@ -298,6 +292,11 @@ body {
   font-style: normal;
   align-items: flex-start;
   text-underline-offset: 4px;
+  font-family:  Raleway, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 24.3px;
+  letter-spacing: 0%;
 }
 
 .footer__address {
