@@ -26,14 +26,12 @@ body {
 }
 
 .header__links-list-item {
-  font-family:  Raleway, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   line-height: auto;
   text-underline-offset: 4px;
-  
 }
-
 
 .logo-header {
   width: 148px;
@@ -41,8 +39,6 @@ body {
   justify-self: center;
   align-self: center;
 }
-
-
 
 .header__address {
   margin-bottom: 4px;
@@ -170,7 +166,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  background-position: center; 
+  background-position: center;
   background-size: cover;
 }
 
@@ -202,17 +198,14 @@ body {
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-  
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
-  
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-  
 }
 
 .lot-title {
@@ -292,7 +285,7 @@ body {
   font-style: normal;
   align-items: flex-start;
   text-underline-offset: 4px;
-  font-family:  Raleway, Arial, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   font-size: 18px;
   font-weight: normal;
   line-height: 24.3px;
@@ -300,8 +293,9 @@ body {
 }
 
 .footer__address {
- margin-left: 50px;
- line-height: 25px;
+  margin-left: 50px;
+  line-height: 25px;
+  margin-bottom: 82px;
 }
 
 .footer__menu {
